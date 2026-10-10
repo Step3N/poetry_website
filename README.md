@@ -23,11 +23,11 @@ go run main.go
 
 # 示例
 
-![pc](https://github.com/Step3N/poetry_website/blob/main/example/pc.png)
+![pc](https://github.com/Step3N/poetry_website/blob/main/backend/example/pc.png)
 
-![mobile](https://github.com/Step3N/poetry_website/blob/main/example/mobile.png)
+![mobile](https://github.com/Step3N/poetry_website/blob/main/backend/example/mobile.png)
 
-![swagger](https://github.com/Step3N/poetry_website/blob/main/example/swagger.png)
+![swagger](https://github.com/Step3N/poetry_website/blob/main/backend/example/swagger.png)
 
 
 
