@@ -21,17 +21,13 @@ go run main.go
 
 接口文档: http://localhost:8080/swagger
 
-# Docker部署
-
-todo.
-
 # 示例
 
-![pc](https://github.com/foryatto/poetry/blob/main/example/pc.png)
+![pc](https://github.com/Step3N/poetry_website/blob/main/example/pc.png)
 
-![mobile](https://github.com/foryatto/poetry/blob/main/example/mobile.png)
+![mobile](https://github.com/Step3N/poetry_website/blob/main/example/mobile.png)
 
-![swagger](https://github.com/foryatto/poetry/blob/main/example/swagger.png)
+![swagger](https://github.com/Step3N/poetry_website/blob/main/example/swagger.png)
 
 
 
